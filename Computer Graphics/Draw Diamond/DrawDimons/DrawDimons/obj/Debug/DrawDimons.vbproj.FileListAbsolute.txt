@@ -1,0 +1,11 @@
+C:\Users\Mahmood Ali\Documents\Visual Studio 2015\Projects\Visual Base\DrawDimons\DrawDimons\bin\Debug\DrawDimons.exe.config
+C:\Users\Mahmood Ali\Documents\Visual Studio 2015\Projects\Visual Base\DrawDimons\DrawDimons\bin\Debug\DrawDimons.exe
+C:\Users\Mahmood Ali\Documents\Visual Studio 2015\Projects\Visual Base\DrawDimons\DrawDimons\bin\Debug\DrawDimons.pdb
+C:\Users\Mahmood Ali\Documents\Visual Studio 2015\Projects\Visual Base\DrawDimons\DrawDimons\bin\Debug\DrawDimons.xml
+C:\Users\Mahmood Ali\Documents\Visual Studio 2015\Projects\Visual Base\DrawDimons\DrawDimons\obj\Debug\DrawDimons.vbprojResolveAssemblyReference.cache
+C:\Users\Mahmood Ali\Documents\Visual Studio 2015\Projects\Visual Base\DrawDimons\DrawDimons\obj\Debug\DrawDimons.Form1.resources
+C:\Users\Mahmood Ali\Documents\Visual Studio 2015\Projects\Visual Base\DrawDimons\DrawDimons\obj\Debug\DrawDimons.Resources.resources
+C:\Users\Mahmood Ali\Documents\Visual Studio 2015\Projects\Visual Base\DrawDimons\DrawDimons\obj\Debug\DrawDimons.vbproj.GenerateResource.Cache
+C:\Users\Mahmood Ali\Documents\Visual Studio 2015\Projects\Visual Base\DrawDimons\DrawDimons\obj\Debug\DrawDimons.exe
+C:\Users\Mahmood Ali\Documents\Visual Studio 2015\Projects\Visual Base\DrawDimons\DrawDimons\obj\Debug\DrawDimons.xml
+C:\Users\Mahmood Ali\Documents\Visual Studio 2015\Projects\Visual Base\DrawDimons\DrawDimons\obj\Debug\DrawDimons.pdb
