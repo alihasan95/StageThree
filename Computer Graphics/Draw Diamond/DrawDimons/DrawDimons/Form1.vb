@@ -83,7 +83,7 @@
         If (Dy > Dx) Then
             temp = Dx
             Dx = Dy
-            Dy = Dx
+        Dy = temp
             change = 1
 
         Else
